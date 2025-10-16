@@ -1,0 +1,22 @@
+[
+  {"question": "Who was the first President of the USA?", "options": ["Abraham Lincoln", "George Washington", "John Adams", "Thomas Jefferson"], "answer": 1},
+  {"question": "In which year did World War II end?", "options": ["1945", "1939", "1918", "1950"], "answer": 0},
+  {"question": "Where was the Great Wall built?", "options": ["India", "China", "Japan", "Russia"], "answer": 1},
+  {"question": "Who discovered America?", "options": ["Columbus", "Magellan", "Cook", "Vasco da Gama"], "answer": 0},
+  {"question": "Which empire built the pyramids?", "options": ["Roman", "Greek", "Egyptian", "Persian"], "answer": 2},
+  {"question": "Who was Napoleon?", "options": ["French Emperor", "British King", "German General", "Italian Pope"], "answer": 0},
+  {"question": "When did the Berlin Wall fall?", "options": ["1989", "1991", "1980", "1995"], "answer": 0},
+  {"question": "Who was Amir Temur?", "options": ["Scientist", "Poet", "Commander", "King"], "answer": 2},
+  {"question": "Which war ended in 1918?", "options": ["WWI", "WWII", "Cold War", "Vietnam War"], "answer": 0},
+  {"question": "Who wrote the Constitution of USA?", "options": ["Jefferson", "Washington", "Madison", "Lincoln"], "answer": 2},
+  {"question": "Where was the Renaissance born?", "options": ["France", "Italy", "Germany", "Spain"], "answer": 1},
+  {"question": "Who was the founder of the Mongol Empire?", "options": ["Genghis Khan", "Kublai Khan", "Attila", "Tamerlane"], "answer": 0},
+  {"question": "Which country colonized India?", "options": ["France", "Portugal", "Britain", "Spain"], "answer": 2},
+  {"question": "Who was the first Uzbek president?", "options": ["Shavkat Mirziyoyev", "Islom Karimov", "Abdulhafiz Jalolov", "Rustam Azimov"], "answer": 1},
+  {"question": "What year did O‘zbekiston gain independence?", "options": ["1991", "1990", "1992", "1989"], "answer": 0},
+  {"question": "Who was the leader of the Soviet Union during WWII?", "options": ["Lenin", "Stalin", "Khrushchev", "Gorbachev"], "answer": 1},
+  {"question": "Which country was part of the Axis powers?", "options": ["USA", "UK", "Germany", "Canada"], "answer": 2},
+  {"question": "Who signed the Treaty of Versailles?", "options": ["Germany", "France", "USA", "UK"], "answer": 0},
+  {"question": "What was the capital of the Ottoman Empire?", "options": ["Baghdad", "Istanbul", "Cairo", "Tehran"], "answer": 1},
+  {"question": "Which Uzbek city was a key Silk Road hub?", "options": ["Tashkent", "Nukus", "Samarkand", "Termez"], "answer": 2}
+]

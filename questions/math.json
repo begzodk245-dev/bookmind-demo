@@ -1,0 +1,22 @@
+[
+  {"question": "2 + 2 = ?", "options": ["3", "4", "5", "6"], "answer": 1},
+  {"question": "5 × 3 = ?", "options": ["15", "10", "8", "20"], "answer": 0},
+  {"question": "10 ÷ 2 = ?", "options": ["2", "5", "10", "20"], "answer": 1},
+  {"question": "9 − 4 = ?", "options": ["3", "4", "5", "6"], "answer": 2},
+  {"question": "√16 = ?", "options": ["2", "4", "8", "16"], "answer": 1},
+  {"question": "7 × 6 = ?", "options": ["42", "36", "48", "56"], "answer": 0},
+  {"question": "12 ÷ 4 = ?", "options": ["2", "3", "4", "6"], "answer": 1},
+  {"question": "3² = ?", "options": ["6", "9", "12", "3"], "answer": 1},
+  {"question": "100 − 25 = ?", "options": ["75", "85", "65", "90"], "answer": 0},
+  {"question": "8 + 7 = ?", "options": ["14", "15", "16", "13"], "answer": 1},
+  {"question": "6 × 5 = ?", "options": ["30", "25", "35", "40"], "answer": 0},
+  {"question": "20 ÷ 5 = ?", "options": ["2", "4", "5", "6"], "answer": 2},
+  {"question": "√81 = ?", "options": ["7", "8", "9", "10"], "answer": 2},
+  {"question": "11 + 9 = ?", "options": ["19", "20", "21", "22"], "answer": 1},
+  {"question": "14 − 6 = ?", "options": ["6", "8", "9", "7"], "answer": 1},
+  {"question": "2³ = ?", "options": ["6", "8", "4", "2"], "answer": 1},
+  {"question": "45 ÷ 9 = ?", "options": ["4", "5", "6", "7"], "answer": 1},
+  {"question": "13 × 2 = ?", "options": ["24", "26", "28", "30"], "answer": 1},
+  {"question": "50 − 17 = ?", "options": ["33", "32", "34", "35"], "answer": 0},
+  {"question": "7 + 8 = ?", "options": ["14", "15", "16", "13"], "answer": 1}
+]

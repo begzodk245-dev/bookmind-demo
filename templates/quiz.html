@@ -1,0 +1,27 @@
+<!DOCTYPE html>
+<html>
+<head>
+    <title>Quiz</title>
+</head>
+<body>
+    <h2>Fan: {{ category }}</h2>
+    <h3>Ism: {{ username }}</h3>
+    <h3>Savol {{ qnum }}: {{ question.question }}</h3>
+
+    <form method="POST" action="/answer">
+        {% for option in question.options %}
+            <input type="radio" name="answer" value="{{ loop.index0 }}" required>
+            {{ option }}<br>
+        {% endfor %}
+
+        <input type="hidden" name="correct" value="{{ question.answer }}">
+        <input type="hidden" name="category" value="{{ category }}">
+        <input type="hidden" name="score" value="{{ score }}">
+        <input type="hidden" name="qnum" value="{{ qnum }}">
+        <input type="hidden" name="username" value="{{ username }}">
+
+        <br>
+        <button type="submit">Keyingi savol</button>
+    </form>
+</body>
+</html>

@@ -1,0 +1,22 @@
+[
+  {"question": "Yer atmosferasining eng quyi qatlami nima?", "options": ["Stratosfera", "Troposfera", "Mezosfera", "Ekzosfera"], "answer": 1},
+  {"question": "Fotosintez jarayonida o‘simliklar nima ishlab chiqaradi?", "options": ["Kislorod", "Azot", "Karbonat", "Metan"], "answer": 0},
+  {"question": "Atom yadrosida qanday zarralar mavjud?", "options": ["Elektronlar", "Protonlar va neytronlar", "Ionlar", "Fotonnar"], "answer": 1},
+  {"question": "Qaysi modda suvni tozalashda ishlatiladi?", "options": ["Kumush", "Xlor", "Temir", "Kaliy"], "answer": 1},
+  {"question": "Inson tanasida eng katta organ qaysi?", "options": ["Jigar", "Teri", "Yurak", "O‘pka"], "answer": 1},
+  {"question": "Quyosh energiyasi qaysi turga kiradi?", "options": ["Kimyoviy", "Yadro", "Mexanik", "Radiatsion"], "answer": 3},
+  {"question": "DNA nima vazifani bajaradi?", "options": ["Energiya ishlab chiqaradi", "Genetik ma'lumotni saqlaydi", "Qon aylanishini boshqaradi", "Ovqat hazm qiladi"], "answer": 1},
+  {"question": "Qaysi gaz issiqxona effektini kuchaytiradi?", "options": ["O2", "CO2", "N2", "H2"], "answer": 1},
+  {"question": "Elektr toki o‘lchov birligi nima?", "options": ["Volt", "Ohm", "Amper", "Watt"], "answer": 2},
+  {"question": "Qaysi sayyora eng issiq?", "options": ["Mars", "Venus", "Merkuriy", "Yupiter"], "answer": 1},
+  {"question": "Suvning qaynash harorati necha °C?", "options": ["90", "100", "110", "120"], "answer": 1},
+  {"question": "Qaysi element suv tarkibida mavjud?", "options": ["Na", "Cl", "H", "Fe"], "answer": 2},
+  {"question": "O‘simliklar qaysi gazni yutadi?", "options": ["Kislorod", "Azot", "Karbonat angidrid", "Metan"], "answer": 2},
+  {"question": "Qaysi hayvon sut emizuvchilar guruhiga kiradi?", "options": ["Kapalak", "Baliq", "Qush", "Delfin"], "answer": 3},
+  {"question": "Qaysi organ qon tozalashda ishtirok etadi?", "options": ["Yurak", "Buyrak", "Jigar", "Teri"], "answer": 1},
+  {"question": "Qaysi energiya manbai tiklanmaydi?", "options": ["Quyosh", "Shamol", "Ko‘mir", "Gidro"], "answer": 2},
+  {"question": "Qaysi vitamin quyosh nuri orqali hosil bo‘ladi?", "options": ["A", "B", "C", "D"], "answer": 3},
+  {"question": "Qaysi hayvonlar sovuq qonlilar?", "options": ["Quyon", "Kapalak", "Baliq", "Ilon"], "answer": 3},
+  {"question": "Qaysi fan modda va uning xossalarini o‘rganadi?", "options": ["Biologiya", "Fizika", "Kimyo", "Geologiya"], "answer": 2},
+  {"question": "Qaysi gaz atmosferada eng ko‘p?", "options": ["Kislorod", "Azot", "Karbonat angidrid", "Argon"], "answer": 1}
+]
