@@ -1,0 +1,9 @@
+services:
+  - type: web
+    name: bookmind-demo
+    env: python
+    buildCommand: pip install -r requirements.txt
+    startCommand: gunicorn app:app
+    repo: https://github.com/begzod245-dev/bookmind-demo
+    branch: main
+    autoDeploy: true
